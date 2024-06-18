@@ -1,12 +1,12 @@
 <resources>
-    <string name="app_name">judgment</string>
+    <string name="app_name">イヌリキ</string>
     <string name="action_settings">Settings</string>
     <!-- Strings used for fragments for navigation -->
     <string name="first_fragment_label">First Fragment</string>
     <string name="second_fragment_label">Second Fragment</string>
     <string name="next">Next</string>
     <string name="previous">Previous</string>
-
+    <string name="text"><a href="https://ss1.xrea.com/continent1112.s322.xrea.com/#policy">プライバシーポリシー</a></string>
     <string name="lorem_ipsum">
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam in scelerisque sem. Mauris
         volutpat, dolor id interdum ullamcorper, risus dolor egestas lectus, sit amet mattis purus

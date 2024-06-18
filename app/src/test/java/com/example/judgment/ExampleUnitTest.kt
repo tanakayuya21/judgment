@@ -1,4 +1,4 @@
-package com.example.judgment
+package com.your.orgname.judgment
 
 import org.junit.Test
 
